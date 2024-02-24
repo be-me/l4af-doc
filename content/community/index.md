@@ -39,4 +39,4 @@ Follow us so you are the first to know when new features and templates are launc
 
 ## Further Community Resources
 
-- [Hugo Forum](https://discourse.gohugo.io/) for help installing Hugo and resolving Hugo error messages
+- [All 4 Earth](https://discourse.gohugo.io/) is a network of resources that aims to support projects that are good for the climate, economy and humanity
