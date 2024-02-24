@@ -12,6 +12,7 @@
 - [[#ARTICLE IX - WAIVER OR REDUCTION OF FEES]]
 - [[#ARTICLE X - MISCELLANEOUS]]
 - [[#ARTICLE XI - AMENDMENTS]]
+
 ## ARTICLE I - NAME AND PURPOSE 
 ### Section 1: Name 
 The name of the corporation shall be LIBRARY FOR ALTERNATE FUTURES, NFP (“Corporation”).
