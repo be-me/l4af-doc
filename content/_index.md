@@ -10,17 +10,17 @@ design:
 sections:
   - block: hero
     content:
-      title: Write Docs Fast, Focus on Your Content
-      text: The easy, no-code technical documentation solution your users will love 🎉
+      title: The Future is Undefined, All Options Exist Today
+      text: Welcome to the Library for Alternate Futures' website 🎉
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
+        text: Learn More
+        url: /community/
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
+        text: Our documents
         url: /docs/
       announcement:
-        text: "Announcing the release of version 2."
+        text: "Second annual meeting on March 1, 2024"
         link:
           text: "Read more"
           url: "/blog/"
@@ -34,7 +34,7 @@ sections:
         color: ""
         image:
           # Add your image background to `assets/media/`.
-          filename: ""
+          filename: "58910025.jpg"
           filters:
             brightness: 0.5
   - block: stats
