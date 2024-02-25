@@ -42,16 +42,15 @@ sections:
       items:
         - statistic: "1M+"
           description: |
-            Websites built  
+            people living in Southern Illinois 
             with Hugo Blox
-        - statistic: "10k+"
+        - statistic: "130k+"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
+            people living in the Carbondale-Marion area  
+            as of 2022
+        - statistic: "1"
           description: |
-            Discord community  
-            for support
+            Library for Alternate Futures
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-800"
@@ -64,28 +63,28 @@ sections:
       title: Features
       text: Collaborate, publish, and maintain technical knowledge with an all-in-one documentation site. Used by 100,000+ startups, enterprises, and researchers.
       items:
-        - name: Optimized SEO
-          icon: magnifying-glass
+        - name: Access to Tools
+          icon: beaker
           description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
+        - name: Opportunities to Connect
           icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
+          description: Collaboration brings better results than competition.
+        - name: Easy to Join
           icon: sparkles
           description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
+        - name: Get as Involved as You Want
+          icon: face-smile
           description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
         - name: Highly Rated
           icon: star
           description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+        - name: A Library Collection
+          icon: building-library
+          description: Get informed and inspired
   - block: cta-card
     content:
-      title: "Start Writing with the #1 Effortless Documentation Platform"
-      text: Hugo Blox Docs Theme brings all your technical knowledge together in a single, centralized knowledge base. Easily search and edit it with the tools you use every day!
+      title: "Create your best tomorrow today!"
+      text: The Library for Alternate Futures provides a knowledge base and strategic support.
       button:
         text: Get Started
         url: https://hugoblox.com/templates/details/docs/
